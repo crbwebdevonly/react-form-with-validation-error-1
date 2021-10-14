@@ -48,9 +48,14 @@
                     font-size: 1.5rem;
                     border-radius: 10px;
                    width: 100%;
+                   margin-top: 10px;
                  
                    background-color: rgba(128, 128, 128, 0.733);
                    cursor: pointer;
+               }
+               .success{
+                    padding: 5px;text-align: center;
+                    color: rgb(37, 145, 37);
                }
           }
      }
